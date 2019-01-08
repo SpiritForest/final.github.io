@@ -9,7 +9,7 @@ export default {
   monster: {
     name: undefined,
     health: 100,
-    attack: 100,
+    attack: 20,
     reverseAttack: 10,
   },
 
